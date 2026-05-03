@@ -4,6 +4,16 @@ Powered by **<a href="https://landing.ai/">Landing AI</a> 🚀** and **<a href="
 
 **LoanLens AI** is an intelligent, end-to-end underwriting assistant that automates financial document analysis, fraud detection, and credit decisioning with speed, accuracy, and transparency.
 
+---
+### 🎬 Watch Demo
+<p>
+  <a href="https://www.youtube.com/watch?v=D_7Hbrd_PtA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"><img src="https://img.shields.io/badge/Watch%20Demo%20Video-555555?style=for-the-badge" alt="Watch Demo Video"></img>
+  </a>
+</p>
+
+---
+
 
 
 ## 🚨 Problem Statement
@@ -23,6 +33,7 @@ LoanLens AI addresses this challenge by automating document extraction, fraud de
 
 ---
 
+
 ## 💡 User Story
 As a **loan officer or underwriting analyst**,
 I want an **AI-powered assistant** that can automatically extract, validate, and analyze borrower documents across multiple formats,
@@ -40,6 +51,8 @@ With **LoanLens AI**, John uploads the borrower’s documents, and the system au
 - Provides a weighted loan eligibility score along with a chat interface to query details like
 
 *Instead of spending hours on manual checks, John can now make confident, data-driven lending decisions in minutes - improving turnaround time, accuracy, and customer satisfaction.*
+
+
 
 
 
