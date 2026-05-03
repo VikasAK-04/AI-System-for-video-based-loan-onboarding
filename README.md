@@ -41,17 +41,7 @@ With **LoanLens AI**, John uploads the borrower’s documents, and the system au
 
 *Instead of spending hours on manual checks, John can now make confident, data-driven lending decisions in minutes - improving turnaround time, accuracy, and customer satisfaction.*
 
-## 🧩 Few More Examples
-| 🕵️ Identity Fraud | ✅ Approved |
-|-------------------|-------------|
-| <img src="docs/fraud_example.png" width="512" height="512"/> | <img src="docs/approved_example.png" width="512" height="512"/> |
-|Demo <a href="https://drive.google.com/file/d/1X_gcSrOQw0ZpiVfOJYXpLAWJzLU2aYBt/view?usp=sharing">Video</a>|Demo <a href="https://drive.google.com/file/d/13Nk5Sd2R7ZShHrsiOGIIdxpIk0Ij6YmR/view?usp=drive_link">Video</a>|
 
-| 🔍 Manual Review | ⚠️ Identity Fraud and Name inconsistency |
-|------------------|------------------|
-| <img src="docs/manual_review_example.png" width="512" height="512"/> | <img src="docs/fraud_warning.png" width="512" height="512"/> |
-|Demo <a href="https://drive.google.com/file/d/1qnb40WqTEQ2z4q-bJoBy2T_1Z1uyrNqC/view?usp=drive_link">Video</a>|Demo <a href="https://drive.google.com/file/d/1Qb3oDaSsTQ6ISnfLLfUOXnC0VPbHD2aO/view?usp=drive_link">Video</a>|
----
 
 ## ⚙️ Key Features
 
